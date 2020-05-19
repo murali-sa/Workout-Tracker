@@ -1,0 +1,25 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "workout tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murali-sa/Workout-Tracker.git"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "js"
+  ],
+  "author": "murali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murali-sa/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/murali-sa/Workout-Tracker#readme"
+}
